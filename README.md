@@ -227,6 +227,8 @@ The code is also heavily commented. We recommend reading through the comments, g
 4. Connect to the Heroku Postgres database from Postico
 5. In the deploy section, select manual deploy
 
+Deployed on Heroku here https://team-brain-change.herokuapp.com/#/home
+
 ## Authors
 
 * **Bobby Khounphinith** - *Initial work* - (https://github.com/koop212)
