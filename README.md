@@ -229,6 +229,10 @@ The code is also heavily commented. We recommend reading through the comments, g
 
 Deployed on Heroku here https://team-brain-change.herokuapp.com/#/home
 
+## Screenshot 
+![](documentation/images/Digital_Brain_Coach.png)
+
+
 ## Authors
 
 * **Bobby Khounphinith** - *Initial work* - (https://github.com/koop212)
